@@ -12,3 +12,7 @@
 2/11
 -Submitted Homework 4 file
 -They are seperate files labled Q1 and Q2
+
+2/19
+-Submitted Homework 5 files
+-They are seperate files labled Q1 and Q2, and Q3
