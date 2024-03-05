@@ -16,3 +16,6 @@
 2/19
 -Submitted Homework 5 files
 -They are seperate files labled Q1 and Q2, and Q3
+
+3/4
+-Submitted Homework 6 file
